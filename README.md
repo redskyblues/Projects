@@ -1,6 +1,10 @@
 # Projects
 This is a collection of some of the programming projects I have worked on.
 
+<b>(in progress) IMDB Sentiment Analysis (PyTorch)</b>
+
+- I am working of training a sentiment analysis model on a database of IMDB reviews using PyTorch.
+
 <b>Accent Classification NLP Project (TensorFlow)</b>
 
 - Trained a neural network to classify nine English-speaking accents in the large AccentDB dataset. Achieved a test-set accuracy of >95% by optimising model architecture to reduce overfitting.
